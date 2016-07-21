@@ -30,7 +30,7 @@ Meetups are a great way to find out who is hiring in the technology you are lear
 ## Community
 Being an active part of the community is great way to stay informed about what jobs are available and when there are events worth attending. Don't just watch, but participate and create conversations about the things you are learning.
 
-- [Bloc Slack]()
+- [Bloc Slack](http://bloc-students.slack.com)
 - [Code Newbies](http://codenewbie.org/)
 
 ## Twitter
