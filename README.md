@@ -16,9 +16,12 @@ Meetups are a great way to find out who is hiring in the technology you are lear
 - [Meetup.com](meetup.com)
 
 ## Extra Reading
+Staying up to date with industry changes or identifying trends is hard, but signing up to mailing lists is easy. I recommend the following lists to get started.
+
 - [HTML5 Weekly](http://html5weekly.com/)
 - [JavaScript Weekly](http://javascriptweekly.com/)
 - [Ruby Weekly](http://rubyweekly.com/)
+- [New Programmers aAiling List](https://bootcamping.curated.co/)
 
 ## Blog Templates
 [My blog](http://theblackc000000de.blogspot.com/) was the thing I invested time into. I received a number interview requests and opportunities because of it, I recommend starting a blog yesterday about what you are doing and commit to writing on it eveyr week.
