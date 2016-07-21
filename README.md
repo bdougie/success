@@ -21,7 +21,7 @@ Staying up to date with industry changes or identifying trends is hard, but sign
 - [HTML5 Weekly](http://html5weekly.com/)
 - [JavaScript Weekly](http://javascriptweekly.com/)
 - [Ruby Weekly](http://rubyweekly.com/)
-- [New Programmers aAiling List](https://bootcamping.curated.co/)
+- [New Programmers Mailing List](https://bootcamping.curated.co/)
 
 ## Blog Templates
 [My blog](http://theblackc000000de.blogspot.com/) was the thing I invested time into. I received a number interview requests and opportunities because of it, I recommend starting a blog yesterday about what you are doing and commit to writing on it eveyr week.
