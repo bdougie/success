@@ -38,3 +38,7 @@ Being an active part of the community is great way to stay informed about what j
 
 ## Twitter
 Twitter is a great place to find out about events and get involved remotely with the programming community. If you are not already there, you can start by following [Bloc](https://twitter.com/trybloc) and [Me](https://twitter.com/bdougieYO)
+
+## Tips for getting your questions answered
+
+[slack](https://github.com/jdgonzales09/slackquestions/blob/master/slackquestions.md)
