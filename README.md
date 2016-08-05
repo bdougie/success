@@ -2,6 +2,8 @@
 
 There are lot of new programmers entering the field this year, here are somethings I think will help stand out.
 
+Tips for getting your questions answered on [slack](https://github.com/jdgonzales09/slackquestions/blob/master/slackquestions.md).
+
 ## Podcasts
 Podcast are a great way to passively learn about programming and what is out there. If you have 
 
@@ -39,6 +41,3 @@ Being an active part of the community is great way to stay informed about what j
 ## Twitter
 Twitter is a great place to find out about events and get involved remotely with the programming community. If you are not already there, you can start by following [Bloc](https://twitter.com/trybloc) and [Me](https://twitter.com/bdougieYO)
 
-## Tips for getting your questions answered
-
-[slack](https://github.com/jdgonzales09/slackquestions/blob/master/slackquestions.md)
